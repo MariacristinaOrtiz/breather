@@ -17,7 +17,7 @@ Se muestra la identificación de los elementos de navegación de la wewbsite **B
 
 ### Navegación global
 
-![breath-global](assets/docs/breather-navegación global.png)
+![breath-global](https://github.com/MariacristinaOrtiz/breather/blob/master/assets/docs/breather-navegaci%C3%B3n%20global.png)
 
 ### Navegación local
 
